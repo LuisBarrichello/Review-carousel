@@ -17,7 +17,7 @@ A metodologia aplicada tbm é mesma do Color Flipper(LINK DEPLOY) de ver os tuto
 
 ## Deploy
 
-* [Review carousel](LINK DEPLOY) 
+* [Review carousel](https://luisbarrichello-reviewcarousel.netlify.app/) 
 
 
 ## Contato:
